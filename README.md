@@ -6,8 +6,12 @@ if this was a real github, i would put my name and major, but this will never ge
 ## repositories
 
 - ### [python madness](https://github.com/deadfishh/python-madness)
-        somethintg
-- [senior projects](https://github.com/deadfishh/senior-shit)
-- [stem](https://github.com/deadfishh/stem)
-- [java games](https://github.com/deadfishh/games)
-- [dialog boxes](https://github.com/deadfishh/dialog-boxes)
+        trying to learn python. going okay.
+- ### [senior projects](https://github.com/deadfishh/senior-shit)
+        ap lit and linalg
+- ### [stem](https://github.com/deadfishh/stem)
+        the main character!
+- ### [java games](https://github.com/deadfishh/games)
+        games, but also fake matlab
+- ### [dialog boxes](https://github.com/deadfishh/dialog-boxes)
+        what she said
