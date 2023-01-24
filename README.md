@@ -6,7 +6,7 @@ if this was a real github, i would put my name and major, but this will never ge
 ## repositories
 
 - ### [python madness](https://github.com/deadfishh/python-madness)
-trying to learn python. going okay.
+  trying to learn python. going okay.
 - ### [senior projects](https://github.com/deadfishh/senior-shit)
 ap lit and linalg
 - ### [stem](https://github.com/deadfishh/stem)
