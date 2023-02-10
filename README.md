@@ -17,3 +17,5 @@ if this was a real github, i would put my name and major, but this will never ge
   dialog boxes are fun, i enjoyed making these.  there's quizlet, name every ____, and other things.  i enjoy listing things off and memorizing lists, as seen in some of the stem "directories".  
 - ### [data structures](https://github.com/deadfishh/data-structures)
   the stuff from cwru data structures, aka csds 233.  they all work and that's about as good as it's gonna get.  everything is written in java but there's also the python translations in my python madness repo.
+- ### [matricie](https://github.com/deadfishh/matricie)
+  several fun linear algebra functions and things that we can do with matrixes, like inverse and all that.  coming soon: rref! 
