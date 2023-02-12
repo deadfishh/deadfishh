@@ -1,21 +1,19 @@
 # welcome to my github
 
 ## about me
-if this was a real github, i would put my name and major, but this will never get accessed by the public.  in fact, if anyone sees this, there's an 80% chance that they are a data structures student, who, mid-cheating, clicked on rohan's bio.  every single thing on here is a joke.  in my free time i enjoy building snowmen and cancelling people on twitter.  my profile picture is from the 8th grade DC trip, about five years ago at this point.  i will now make a list of all my repositories.  
+hello! i am a first year computer science student at case western reserve university.  i have around ten repositories, but the ones listed below are my favorites.  
 
-## repositories
+## my favorite repositories
 
+- ### [matricie](https://github.com/rachel-tj/matricie)
+  several linear algebra functions that help with matricies, such as taking the inverse of an nxn matrix or using rref.  there's also a truth table generator where you input a statement such as "(p^q) -> r" and it will print the truth table with p, q, r, and the aforementioned statement. 
+- ### [qube](https://github.com/rachel-tj/matricie)
+  an algorigthm that can solve a rubik's cube using dijikstra's algorithm, while printing the instructions.  the average runtime is around 0.4 seconds.  
 - ### [python madness](https://github.com/deadfishh/python-madness)
-  i am trying to learn python.  i can confidently say that i know the same amount of python as i do java, which is not much.  
-- ### [senior projects](https://github.com/deadfishh/senior-shit)
-  the personality test for ap lit and the chadbot for linear algebra.  i was the original chat gpt, but instead of being helpful, it was puchovich telling you to listen to the alvin and the chipmunks soundtrack (slowed down) or matt lowry reminding you of the ap grader motto (no mercy!!)
-- ### [stem](https://github.com/deadfishh/stem)
-  the main character of my whole github.  i sure do love this website <3
-- ### [java games](https://github.com/deadfishh/games)
-  from when i would practice java by making fun games with no objects at all, like battleship or wordle.  there's also the most fun games of all, leontief matrixes and LU factorization!!! numpy who???
-- ### [dialog boxes](https://github.com/deadfishh/dialog-boxes)
-  dialog boxes are fun, i enjoyed making these.  there's quizlet, name every ____, and other things.  i enjoy listing things off and memorizing lists, as seen in some of the stem "directories".  
-- ### [data structures](https://github.com/deadfishh/data-structures)
-  the stuff from cwru data structures, aka csds 233.  they all work and that's about as good as it's gonna get.  everything is written in java but there's also the python translations in my python madness repo.
-- ### [matricie](https://github.com/deadfishh/matricie)
-  several fun linear algebra functions and things that we can do with matrixes, like inverse and all that.  coming soon: rref! 
+  in order to learn python, i redid the data structures assignments in python (linked list, stack, queue, hashtable graph), and wrote a base converter that can go anywhere between base 2 and 36.  
+- ### [senior projects](https://github.com/rachel-tj/senior-projects)
+  my end-of-the-year projects for linear algebra and ap literature, respectively.  in linear algebra, i made a low-level chatbot using text files and markov chains.  in ap lit, i made a personality test that told the user which character from the year they were most similar to.  
+- ### [stem](https://github.com/rachel-tj/stem)
+  my personal website/blog.  definetly one of my favorite things on here.  
+- ### [data structures](https://github.com/rachel-tj/data-structures)
+  everything from cwru data structures, also known as csds 233.  the files here are all written in java, but there's also python translations in the python  madness folder.  
